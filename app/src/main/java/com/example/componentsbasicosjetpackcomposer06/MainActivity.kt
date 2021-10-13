@@ -25,6 +25,9 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.example.componentsbasicosjetpackcomposer06.ui.theme.ComponentsBasicosJetPackComposer06Theme
 
+
+
+//Componentes básicos
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
